@@ -74,12 +74,14 @@
 
 ### Status
 ---
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wjcheon96&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjcheon96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
-
 <div align="center">
+    <h3 align="left">Github Status</h3>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wjcheon96&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjcheon96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+</div>
+</br>
+<div align="center">
+    <h3 align="left">Baekjoon</h3>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjcheon96">
 </div>
 
