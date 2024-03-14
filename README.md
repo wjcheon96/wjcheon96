@@ -1,6 +1,6 @@
 ## Information
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Hello%20Woongjae&fontSize=90)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20WoongJae&descAlign=31)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20WoongJae&descAlign=31&reversal=true)
 
 </br>
 <div align="center">
