@@ -15,6 +15,7 @@
 
 ### Career
 ---
+* Rgorithm Korea 개발팀 사원 (2024.01 ~ )
 * 42 Seoul 8기 (2022.11 ~ )
 
 
